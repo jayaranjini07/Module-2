@@ -1,7 +1,7 @@
 # Exp.No:2b  
 ## FUNCTIONS - STRONG NUMBER
 
-### AIM  
+### AIM 
 To write a python program to check if a number is a strong number using function.
 
 ---
